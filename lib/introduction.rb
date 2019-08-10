@@ -9,7 +9,9 @@ puts "Hi, my name is{daisy}."
 
 end
 
-
+def introduction(name)
+puts "Hi, my name is #{name}."
+end
 
 
 
