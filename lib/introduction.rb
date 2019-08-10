@@ -5,7 +5,7 @@
 
 '#introduction'
 
-"hi, my name is #{name}"
+"hi, my name is {name}"
 
 
 
