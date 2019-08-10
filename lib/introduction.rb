@@ -4,18 +4,18 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 def introduction(name)
-
-puts "Hi, my name is#{name}."
-
+puts "Hi, my name is #{name}."
 end
+
 
 def introduction_with_language(name , language)
 puts "Hi, my name is #{name} and l am learning to program in #{language}."
 end
 
 
-
-
+def introduction_with_language_optional(name, language)
+puts "Hi, my name is #{name} and l am leaning to program in #{Ruby}"
+end
 
 
 
